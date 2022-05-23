@@ -21,7 +21,7 @@ function addEventListenersToCards() {
 document.addEventListener("DOMContentLoaded" , addEventListenersToCards, false)
 
 
-
+// ------------------------ carousel --------------------------
 
 function selectCarouselItem(selectedButtonElement) {
   const selectedItem = selectedButtonElement.id;
